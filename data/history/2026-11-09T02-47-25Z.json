@@ -1,0 +1,33 @@
+{
+  "timestamp": "2026-11-09T02-47-25Z",
+  "results": [
+    {
+      "symbol": "TSLAon",
+      "underlying": "TSLA",
+      "stock_price": 358.22,
+      "nav": 358.22,
+      "quotes": [
+        {
+          "last": 362.51,
+          "bid": 361.37,
+          "ask": 361.65,
+          "vol_usdt": 50652.93846,
+          "exchange": "Gate",
+          "symbol": "TSLAON_USDT",
+          "premium_pct": 1.1976,
+          "spread_pct": 0.0775
+        },
+        {
+          "last": 360.88,
+          "bid": 360.09,
+          "ask": 363.26,
+          "vol_usdt": 151035.1,
+          "exchange": "MEXC",
+          "symbol": "TSLAONUSDT",
+          "premium_pct": 0.7426,
+          "spread_pct": 0.8765
+        }
+      ]
+    }
+  ]
+}
